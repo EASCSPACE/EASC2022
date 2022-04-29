@@ -1,0 +1,6 @@
+Feather RFM69 RX Test!
+
+RFM69 radio init OK!
+RFM69 radio @433 MHz
+Received [43]: EASC|993.74|29.19|162.88|-|-|-|-|0|400|0|.*
+RSSI: -76
